@@ -1,6 +1,6 @@
 ---
-title: "Especificação do Aplicativo Puzzle"
-author: "Prática Profissional em ADS"
+Título: "Especificação do Aplicativo Puzzle"
+Autor: Allef Wallace Rodrigues Caetano - 31958338 / Hiram Monari Bertoni - 31949169 / Pedro Ivan Pimenta Iwayama - 31930352 / Vinicius Lobato de Moraes - 31923712
 ---
 
 
